@@ -35,11 +35,39 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-De co[n]temptu mundi The dispisyng of the worlde / co[m]piled in Latyn by Erasmus Rot. ; and transla
+
+1. To the moste highe / moste vertuous / and mooste excellent princesse / the moste noble quene Mary dowager of France / daughter and syster vnto the mooste victorious kynges of Englande and of France / your humble oratour Thomas Paynel prayeth good helthe and prosperite.
+
+1. Erasmus Roterodamus vnto the reder sendeth gretynge.
+
 #####Body#####
-De co[n]temptu mundi The dispisyng of the worlde / co[m]piled in Latyn by Erasmus Rot. ; and transla
+
+1. ¶ Theodorike Harleme to Ioyce his most cunnyng nephewe / sendeth gretyng.
+
+1. Of the dangerous dwellynge in the worlde. The .ii. Chap.
+
+1. The dispysynge of ryches The .iij. Chaptre.
+
+1. That the pleasures of the fleshe be bothe mortal and bytter. The .iiij. Chapter.
+
+1. That the honours of this Worlde be vayne or foolyshe and vnstable. The .v. Chapter.
+
+1. Of the necessite of dethe / the Whiche suffreth nothynge to be durable. The .vi. Chapter.
+
+1. That the Worlde is both miserable and scelerous. The Seuenth chaptre.
+
+1. What felycyte is in solytary lyfe. The Eyght Chapter
+
+1. Howe that farre greatter liberte is in religion than in the worlde. The .ix. Chaptre.
+
+1. Howe they that lyue a solitary lyfe enioy a double quyetnes. The Tenth Chap.
+
+1. Of the pleasure that is in solitary lyfe. The .xi. Chap.
+
+1. Howe one ought to entre in to religion with good deliberation and aduisement. The .xii. and laste Chapter.
+
 #####Back#####
-De co[n]temptu mundi The dispisyng of the worlde / co[m]piled in Latyn by Erasmus Rot. ; and transla
+¶ Imprinted at London in Fletestrete / in the house of Thomas Berthelet / prynter to the kynges most
 **Types of content**
 
   * There are 108 **verse** lines!
